@@ -1,0 +1,12 @@
+check from high to low
+
+checkRoyalFlush();
+checkStraightFlush();
+checkFourOfAKind();
+checkFullHouse();
+checkFlush();
+checkStraight();
+checkThreeOfAKind();
+checkTwoPair();
+checkPair();
+checkHighCard();
